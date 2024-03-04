@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddlelandingpagewithsingleintroductorysection-html-css-k53VTREdUa](https://www.frontendmentor.io/solutions/huddlelandingpagewithsingleintroductorysection-html-css-k53VTREdUa)
+- Live Site URL: [https://singular-marzipan-672f61.netlify.app/](https://singular-marzipan-672f61.netlify.app/)
 
 ## My process
 
